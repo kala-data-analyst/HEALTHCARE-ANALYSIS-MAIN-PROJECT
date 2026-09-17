@@ -67,7 +67,7 @@ KALA K
 ex. Dominique Pizzie  
 not known
 LinkedIn  
-Profile:
+Profile:linkedin.com/in/kala-data-analyst/
 version history
 0.1
     * Initial Release
